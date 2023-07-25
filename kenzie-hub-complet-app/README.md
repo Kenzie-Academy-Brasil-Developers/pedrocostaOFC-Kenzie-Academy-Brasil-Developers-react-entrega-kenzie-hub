@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+<h1>Kenzie Hub - Treine e Guarde suas Tecnologias!</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>O Kenzie Hub é um aplicativo desenvolvido para que o usuário possa treinar e armazenar suas tecnologias junto com uma organização prática. Com esta aplicação, você poderá gerenciar suas tecnologias de forma eficiente.</p>
 
-## Available Scripts
+<p>Este projeto foi planejado e desenvolvido em parceria com a Kenzie Academy Brasil, garantindo uma experiência de alta qualidade para os usuários.</p>
 
-In the project directory, you can run:
+<h2>Tecnologias Utilizadas</h2>
 
-### `yarn start`
+<ul>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Styled Components</li>
+        <li>React Router Dom</li>
+        <li>Axios</li>
+        <li>React Hook Form</li>
+    </ul>
+ <h2>Como Usar</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <ol>
+        <li>Clone o repositório.</li>
+        <li>Instale as dependências necessárias usando o npm:</li>
+    </ol>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <pre><code>npm install</code></pre>
 
-### `yarn test`
+  <ol start="3">
+        <li>Inicie o servidor de desenvolvimento:</li>
+    </ol>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <pre><code>npm start</code></pre>
 
-### `yarn build`
+  <p>Abra o seu navegador web favorito e visite <a href="http://localhost:3000">http://localhost:3000</a> para acessar o Kenzie Hub.</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <h2>Contribuindo</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  <p>Agradecemos contribuições para melhorar o Kenzie Hub. Se encontrar problemas ou tiver ótimas ideias para novos recursos, sinta-se à vontade para enviar uma pull request.</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   <h2>Licença</h2>
 
-### `yarn eject`
+   <p>Este projeto está licenciado sob a <a href="LICENSE">Licença MIT</a>.</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
